@@ -10,3 +10,8 @@
   <H1> Design Analysis of Algorithms </H1>
     <P>Design and Analysis of Algorithms (DAA) is a fundamental aspect of computer science. It involves creating efficient solutions to computational problems and evaluating their performance. </P>
   </div>
+
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ComradeMohan-CSA0628_DAA/count.svg" />
+</p>
